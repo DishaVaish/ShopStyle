@@ -8,8 +8,8 @@ ShopStyle is a web application developed in Node.js that allows users to easily 
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Features
 
@@ -55,18 +55,8 @@ ShopStyle is a web application developed in Node.js that allows users to easily 
 Open your browser and visit http://localhost:3000 to access ShopStyle.
 
 Explore the website, add products to your cart, and enjoy a seamless shopping experience.
+Thank You.
 
-## Contributing
 
-If you'd like to contribute to ShopStyle, please follow these guidelines:
 
-- Fork the repository on GitHub.
-- Clone your forked repository to your local machine.
-- Create a new branch for your feature or bug fix.
-- Make your changes and commit them with descriptive commit messages.
-- Push your changes to your forked repository.
-- Create a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
