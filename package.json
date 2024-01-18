@@ -1,0 +1,29 @@
+{
+  "name": "ShopStyle",
+  "version": "1.0.0",
+  "description": "Learning Node.js using express in this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": {
+    "name": "Disha Vaish",
+    "github": "https://github.com/DishaVaish",
+    "email": "dishavaish11@gmail.com",
+   
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "mongodb": "^6.3.0",
+    "pug": "^3.0.2",
+    "react-router-dom": "^6.21.2"
+  }
+}
