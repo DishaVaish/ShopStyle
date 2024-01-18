@@ -8,13 +8,13 @@ const options = {
 };
 
 let _db;
-const password = encodeURIComponent('coding12345#');
+
 
 const mongoConnect = (callback) => {
   MongoClient.connect(
-    // "mongodb//<yourDB>:<password>@cluster0.ajqdph4.mongodb.net/?retryWrites=true&w=majority", // DB Connection String
+     "mongodb//<yourDB>:<password>@cluster0.ajqdph4.mongodb.net/?retryWrites=true&w=majority", // DB Connection String
     
-    "mongodb://localhost:27017/",
+    
     options
   )
     .then((client) => {
